@@ -35,7 +35,7 @@ public class Inicio {
 
         p2 = new Persona(DNICliente,nombreCliente,saldoCliente,tieneHambre,tieneSuenio);
 
-        System.out.println("Se registra el cliente: "+p2.getNombre() +" satisfactoriamente");
+        System.out.println("Se registra el cliente: "+p2.getNombre() +" satisfactoriamente!!");
 
     }
 }
